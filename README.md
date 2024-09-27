@@ -1,5 +1,5 @@
 <b>Why to use kafka<b>
-<p> <br><li>
+<p><li>
  As Kafka is an open-source platform that helps process and move data in real-time. </li>
 <br><li>It's used to build streaming data pipelines and applications, and can process trillions of messages in a single go and can handle frequent requests. </li>
 <br><li>It provides communicate events between servers and clients end.</li>
